@@ -1,0 +1,16 @@
+/*
+Theme Name: Zahra Restaurant
+Theme URI: https://zahrarestaurant.com
+Author: Zahra Restaurant & Cafe
+Description: Complete restaurant theme for Zahra Restaurant & Café, Jamia Nagar, New Delhi. Includes auto-setup of all pages on activation.
+Version: 2.0.0
+Requires at least: 5.8
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: zahra
+Tags: restaurant, food, cafe, dark, responsive, one-page
+*/
+
+/* All styles are in css/zahra.css - loaded via functions.php */
